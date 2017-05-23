@@ -1,0 +1,62 @@
+1
+10
+ซอฟต์แวร์ คือ
+โปรแกรมชุดของคำสั่งที่ควบคุมการทำงานของคอมพิวเตอร์
+อุปกรณ์เทคโนโลยีระดับสูง
+โปรแกรมแก้ปัญหาทุกอย่างของมนุษย์
+อุปกรณ์ที่ทำหน้าเสมือนสมองกล
+1
+ข้อใดไม่ใช่ระบบปฏิบัติการ
+ระบบปฏิบัติการดอส
+ระบบปฏิบัติการไมโครซอฟท์เวิร์ด
+ระบบปฏิบัติการไมโครซอฟต์วินโดวส์
+ระบบปฏิบัติการ แอนดรอยด์
+2
+ชนิดของซอฟต์แวร์ (software) มีทั้งหมดกี่ชนิด
+มี 1 ชนิด 1.ซอฟต์แวร์ระบบ
+มี 2 ชนิด 1.ซอฟต์แวร์ระบบ 2.ซอฟต์แวร์ประยุกต์
+มี 3 ชนิด 1.ซอฟต์แวร์ระบบ 2.ซอฟต์แวร์ ประยุกต์ 3.ซอฟต์แวร์บุคคล
+มี 4 ชนิด 1.ซอฟต์แวร์ระบบ 2.ซอฟต์แวร์ประยุกต์ 3.ซอฟต์แวร์บุคคล 4. ซอฟต์แวร์ บริหาร
+2
+ซอฟต์แวร์ประมวลคำ คือข้อใด
+word processing software
+spreadsheet software
+database management software
+presentation software
+1
+ซอฟต์แวร์ตารางทำงาน
+word processing software
+spreadsheet software
+database management software
+presentation software
+2
+ซอฟต์แวร์จัดการฐานข้อมูล
+word processing software
+spreadsheet software
+database management software
+presentation software
+3
+ซอฟต์แวร์นำเสนอ
+word processing software
+spreadsheet software
+database management software
+presentation software
+4
+ซอฟต์แวร์สื่อสาร
+word processing software
+spreadsheet software
+database management software
+communication software
+4
+ซอฟต์แวร์นำเสนอ คือข้อใด
+Microsoft Excel
+Microsoft Access
+Microsoft Outlook
+Microsoft PowerPoint
+4
+โปรแกรมวินโดวส์ เป็นซอฟต์แวร์ประเภทใด
+ซอฟต์แวร์ระบบ
+ซอฟต์แวร์ประยุกต์
+ซอฟต์แวร์สำเร็จ
+ซอฟต์แวร์ที่พัฒนาขึ้นใช้งานเฉพาะ
+1
